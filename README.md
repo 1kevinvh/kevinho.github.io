@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Education
+## Education
 **B.S. in Mathematics and Statistics**
 - Grand Valley State University
   - Allendale, Michigan
@@ -11,36 +11,24 @@
   - 2024
   - [Credentials](https://www.credly.com/badges/8e006124-30fd-4f3b-ac73-278c676ca39b/public_url)
 
-### Skills
+## Skills
 ***Languages & Tools:***
 
 Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
 
-***Automation & Reporting:***
+***Automation & Reporting:***    Power Query, Data Cleaning, Workflow Automation
 
-Power Query, Data Cleaning, Workflow Automation
+***Database Management:***    MySQL, Data Modeling
 
-***Database Management:***
+***Project Tools:***    Asana, Microsoft Teams, Microsoft Office, GSuite
 
-MySQL, Data Modeling
+***Excel Formulas:***    VLOOKUP, XLOOKUP, INDEX MATCH
 
-***Project Tools:***
+***Python Packages:***    NumPy, Pandas, Matplotlib
 
-Asana, Microsoft Teams, Microsoft Office, GSuite
+***Other Skills:***    Data Analytics, Data Visualization, Data Manipulation, 
 
-***Excel Formulas***
-
-VLOOKUP, XLOOKUP, INDEX MATCH
-
-***Python Packages***
-
-NumPy, Pandas, Matplotlib
-
-***Other Skills:***
-
-Data Analytics, Data Visualization, Data Manipulation, 
-
-### Experience
+## Experience
 **Business and Financial Analyst** 
 
 *Northgate Resorts — Hospitality*	
@@ -68,4 +56,4 @@ Data Analytics, Data Visualization, Data Manipulation,
 - Maintained and improved financial reporting tools used by senior leadership.
 - Delivered Ad-Hoc reporting upon management request.
 
-### Projects
+## Projects
