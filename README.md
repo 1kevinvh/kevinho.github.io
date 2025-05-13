@@ -12,15 +12,33 @@
   - [Credentials](https://www.credly.com/badges/8e006124-30fd-4f3b-ac73-278c676ca39b/public_url)
 
 ### Skills
-**Languages & Tools:** Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
+***Languages & Tools:***
 
-**Automation & Reporting:** Power Query, Data Cleaning, Workflow Automation
+Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
 
-**Database Management:** MySQL, Data Modeling
+***Automation & Reporting:***
 
-**Project Tools:** Asana, Microsoft Teams, Microsoft Office, GSuite
+Power Query, Data Cleaning, Workflow Automation
 
-**Other Skills:** Data Analytics, Data Visualization, Data Manipulation, VLOOKUP, XLOOKUP, INDEX MATCH
+***Database Management:***
+
+MySQL, Data Modeling
+
+***Project Tools:***
+
+Asana, Microsoft Teams, Microsoft Office, GSuite
+
+***Excel Formulas***
+
+VLOOKUP, XLOOKUP, INDEX MATCH
+
+***Python Packages***
+
+NumPy, Pandas, Matplotlib
+
+***Other Skills:***
+
+Data Analytics, Data Visualization, Data Manipulation, 
 
 ### Experience
 **Business and Financial Analyst** 
