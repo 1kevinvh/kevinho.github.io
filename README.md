@@ -11,9 +11,7 @@
   - 2024
   - [Credentials](https://www.credly.com/badges/8e006124-30fd-4f3b-ac73-278c676ca39b/public_url)
 
-
-
-
+---
 
 ## Skills
 ***Languages & Tools:***    Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
@@ -36,9 +34,7 @@
 
 ***Other Skills:***    Data Analytics, Data Visualization, Data Manipulation
 
-
-
-
+---
 
 ## Experience
 **Business and Financial Analyst** 
@@ -68,8 +64,6 @@
 - Maintained and improved financial reporting tools used by senior leadership.
 - Delivered Ad-Hoc reporting upon management request.
 
-
-
-
+---
 
 ## Projects
