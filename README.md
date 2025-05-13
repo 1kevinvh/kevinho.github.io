@@ -11,6 +11,10 @@
   - 2024
   - [Credentials](https://www.credly.com/badges/8e006124-30fd-4f3b-ac73-278c676ca39b/public_url)
 
+
+
+
+
 ## Skills
 ***Languages & Tools:***    Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
 
@@ -30,7 +34,10 @@
 ***Python Packages:***    NumPy, Pandas, Matplotlib
 
 
-***Other Skills:***    Data Analytics, Data Visualization, Data Manipulation, 
+***Other Skills:***    Data Analytics, Data Visualization, Data Manipulation
+
+
+
 
 
 ## Experience
@@ -60,5 +67,9 @@
 - Increased visibility into employee performance trends through real-time scorecard dashboards, contributing to a 15% increase in employee engagement.
 - Maintained and improved financial reporting tools used by senior leadership.
 - Delivered Ad-Hoc reporting upon management request.
+
+
+
+
 
 ## Projects
