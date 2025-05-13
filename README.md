@@ -1,5 +1,7 @@
 # Data Analyst
 
+---
+
 ## Education
 **B.S. in Mathematics and Statistics**
 - Grand Valley State University
