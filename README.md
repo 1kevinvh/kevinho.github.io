@@ -3,7 +3,7 @@
 ---
 
 ## Education
-**B.S. in Mathematics and Statistics**
+**Bachelors of Science in Mathematics and Statistics**
 - Grand Valley State University
   - Allendale, Michigan
 
