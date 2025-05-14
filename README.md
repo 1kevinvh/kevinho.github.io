@@ -81,6 +81,6 @@
 ## Contact Me:
 Email: 1kevinvh@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/vhkevin/
+[LinkedIn](https://www.linkedin.com/in/vhkevin/)
 
 ---
