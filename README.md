@@ -16,7 +16,7 @@
 ---
 
 ## Skills
-***Languages & Tools:***    Python (Pandas, NumPy), SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
+***Languages & Tools:***    Python, SQL, Microsoft Excel, Microsoft Power BI, Tableau, Jupyter Notebook
 
 
 ***Automation & Reporting:***    Power Query, Data Cleaning, Workflow Automation
@@ -28,7 +28,7 @@
 ***Project Tools:***    Asana, Microsoft Teams, Microsoft Office, GSuite
 
 
-***Excel Formulas:***    VLOOKUP, XLOOKUP, INDEX MATCH
+***Excel Formulas & Skills:***    VLOOKUP, XLOOKUP, INDEX MATCH, SUMFIS, AVGIFS, SUMPRODUCT, Power Query, Pivot Tables
 
 
 ***Python Packages:***    NumPy, Pandas, Matplotlib
