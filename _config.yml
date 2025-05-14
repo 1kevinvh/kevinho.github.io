@@ -1,15 +1,15 @@
-title: "Kevin Ho"
-avatar: "/assets/img/headshot_rounded_small.png"
+title: Kevin Ho
+avatar: /assets/img/headshot_rounded_small.png
 # description: Data & Financial Analyst with 3+ years of experience using Excel, SQL, Power BI, and Python to automate workflows, improve reporting efficiency, and deliver actionable insights.
-bio: "Data & Financial Analyst with 3+ years of experience using Excel, SQL, Power BI, and Python to automate workflows, improve reporting efficiency, and deliver actionable insights."
-location: "Grand Rapids, Michigan"
-email: "1kevinvh@email.com"
+bio: Data & Financial Analyst with 3+ years of experience using Excel, SQL, Power BI, and Python to automate workflows, improve reporting efficiency, and deliver actionable insights.
+location: Grand Rapids, Michigan
+email: 1kevinvh@email.com
 links:
   # - label: "GitHub"
   #   icon: "fab fa-github"
   #   url: "https://github.com/yourusername"
-  - label: "LinkedIn"
-    icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/vhkevin/"
+  - label: LinkedIn
+    icon: fab fa-linkedin
+    url: https://www.linkedin.com/in/vhkevin/
 
-theme: "jekyll-theme-minimal"
+theme: jekyll-theme-minimal
