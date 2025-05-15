@@ -52,6 +52,9 @@
 - Analyzed resort performance to identify pricing and operational strategies, contributing to 18% YoY revenue growth on key site types.
 - Monitored daily metrics and KPIs (RevPAR, ADR, Occupancy), identifying anomalies and informing management in real time.
 - Delivered Ad-Hoc reporting upon management request.
+- Designed and implemented a retail reporting framework to monitor and price dead inventory, resulting in a 64% year-over-year reduction in obsolete stock within the first year of deployment.
+- Collaborated cross-functionally with construction, legal, marketing, and operations teams to streamline project execution, ensure compliance, and support cohesive go-to-market strategies
+
 
 **Business Operations Analyst**
 
@@ -65,6 +68,7 @@
 - Increased visibility into employee performance trends through real-time scorecard dashboards, contributing to a 15% increase in employee engagement.
 - Maintained and improved financial reporting tools used by senior leadership.
 - Delivered Ad-Hoc reporting upon management request.
+- Calculated monthly sales commissions and automated the generation of itemized commission statements for each team member, increasing accuracy and reducing processing time.
 
 ---
 
