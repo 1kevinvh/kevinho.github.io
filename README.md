@@ -28,7 +28,7 @@
 ***Project Tools:***    Asana, Microsoft Teams, Microsoft Office, GSuite
 
 
-***Excel Formulas & Skills:***    VLOOKUP, XLOOKUP, INDEX MATCH, SUMFIS, AVGIFS, SUMPRODUCT, Power Query, Pivot Tables
+***Excel Formulas & Skills:***    VLOOKUP, XLOOKUP, INDEX MATCH, SUMFIS, AVERAGEIFS, SUMPRODUCT, Power Query, Pivot Tables
 
 
 ***Python Packages:***    NumPy, Pandas, Matplotlib
